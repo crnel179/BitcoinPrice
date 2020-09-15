@@ -1,4 +1,4 @@
-# BitcoinPrice
+# Bitcoin Price
 
 Disclaimer:
 To receive the live data you need to create an account on:
